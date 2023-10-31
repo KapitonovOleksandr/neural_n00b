@@ -9,6 +9,7 @@ __pycache__/
 # env
 myenv*
 env*
+nn_n00b_env/
 
 # Distribution / packaging
 .Python
