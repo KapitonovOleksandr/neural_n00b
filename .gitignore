@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+data/3d_mnist/**
+data/3d_mnist/*
+data/3d_mnist/
+data/cats_and_dogs/**
+data/cats_and_dogs/*
+data/cats_and_dogs/
+
 # env
 myenv*
 env*
