@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+.v*
 
 # data
 data/3d_mnist/**

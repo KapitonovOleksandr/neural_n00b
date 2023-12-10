@@ -10,3 +10,9 @@ transformers
 opencv-stream==0.1.1
 plotly==5.18.0
 torchinfo==1.8.0
+pytorch_lightning==2.1.2
+nltk==3.8.1
+#Python framework for fast Vector Space Modellings
+gensim==4.3.2
+torchtext==0.16.0
+fasttext
