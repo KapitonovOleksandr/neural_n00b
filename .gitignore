@@ -8,6 +8,7 @@ __pycache__/
 .v*
 
 # data
+data/
 data/3d_mnist/**
 data/3d_mnist/*
 data/3d_mnist/
