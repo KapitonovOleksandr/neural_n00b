@@ -16,6 +16,9 @@ data/cats_and_dogs/**
 data/cats_and_dogs/*
 data/cats_and_dogs/
 
+# Logs
+lightning_logs*
+
 # env
 myenv*
 env*
