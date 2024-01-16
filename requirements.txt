@@ -17,3 +17,15 @@ gensim==4.3.2
 torchtext==0.16.0
 #fasttext
 torchmetrics==1.2.1
+pytorch_lightning==2.1.2
+nltk==3.8.1
+
+opencv-contrib-python==4.9.0.80
+#Python framework for fast Vector Space Modelling
+gensim==4.3.2
+torchtext==0.16
+torch==2.1.0
+
+#API
+fastapi==0.104.1
+uvicorn==0.24.0.post1
